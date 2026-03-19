@@ -9,5 +9,3 @@ class Student:
 obj=Student()
 obj.display() 
 print(obj.school)
-
-"""I have made changes to this file"""
